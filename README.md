@@ -10,4 +10,4 @@ Dennis Hotson
 http://blog.thinkst.com/2011/06/simple-graphs-with-arborjs.html
 
 #Copyright
-MIT
+The MIT License

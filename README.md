@@ -10,7 +10,7 @@ Dennis Hotson
 http://blog.thinkst.com/2011/06/simple-graphs-with-arborjs.html
 
 #Copyright
-  Arbor is released under the MIT license
+The MIT License
 
 Copyright (c) 2013 Dennis Hotson
 

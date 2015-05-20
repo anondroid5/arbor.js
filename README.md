@@ -3,6 +3,8 @@ version 0.91
 
 jQuery JavaScript Library version 1.4.4
 
+<img src="./Raw/images/demo03.gif" alt="demo03">
+
 # Environment
 This library tested on
 - Google Chrome 42

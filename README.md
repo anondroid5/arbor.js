@@ -15,7 +15,8 @@ http://blog.thinkst.com/2011/06/simple-graphs-with-arborjs.html
 
     Copyright (c) 2013 Dennis Hotson
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+    and 
     associateddocumentation   files (the "Software"), to deal in the Software without restriction,
     including without limitationthe rights to use, copy,   modify, merge, publish, distribute,
     sublicense, and/or sell copies of the Software,and to permit persons to whom the Software is 

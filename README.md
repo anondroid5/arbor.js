@@ -5,10 +5,9 @@ jQuery JavaScript Library v1.4.4
 
 # Environment
 This library tested on
+- Chrome
 - Firefox
 - IE
-- Chrome
-
 
 #Author
 

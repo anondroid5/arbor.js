@@ -6,7 +6,7 @@ jQuery JavaScript Library version 1.4.4
 # Environment
 This library tested on
 - Google Chrome 42
-- Firefox
+- Mozilla Firefox
 - IE11
 
 #Author

@@ -7,7 +7,7 @@ jQuery JavaScript Library version 1.4.4
 This library tested on
 - Chrome
 - Firefox
-- IE11(11.0.9600.17801)
+- IE11
 
 #Author
 Fumihiko Akagi

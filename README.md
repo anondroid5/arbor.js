@@ -10,6 +10,7 @@ This library tested on
 - IE11(11.0.9600.17801)
 
 #Author
+Fumihiko Akagi
 
 Dennis Hotson
 
@@ -19,6 +20,7 @@ http://blog.thinkst.com/2011/06/simple-graphs-with-arborjs.html
   
     The MIT License
 
+    Copyright (c) 2013 Fumihiko Akagi
     Copyright (c) 2013 Dennis Hotson
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this

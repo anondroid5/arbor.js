@@ -1,4 +1,6 @@
 # arbor.js
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
+
 version 0.91
 
 jQuery JavaScript Library version 1.4.4
